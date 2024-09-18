@@ -1,5 +1,5 @@
 ## Description
-Provide a detailed description of the issue. Explain the context and define the problem that needs to be solved. Include any relevant information.
+Provide a detailed description of the issue. Explain the context and define the problem that needs to be solved; what, why, how. Include any relevant information.
 
 ## Definition of done
 - List the specific criteria that need to be met for this issue to be considered complete.
