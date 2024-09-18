@@ -1,5 +1,5 @@
 ## Description
-Provide a detailed description of the issue or feature requested. Explain the context and define the feature you request in detail.
+Provide a detailed description of the issue or feature requested. Explain the context and define the feature you request in detail. What, why, how.
 
 ## Definition of done
 - List the specific criteria that need to be met for this feature to be considered implemented.
